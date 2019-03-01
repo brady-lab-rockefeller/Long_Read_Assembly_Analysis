@@ -1,0 +1,29 @@
+[I 16:49:28.634 NotebookApp] The port 8889 is already in use, trying another port.
+[I 16:49:28.658 NotebookApp] JupyterLab extension loaded from /home/tali01/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 16:49:28.658 NotebookApp] JupyterLab application directory is /data01/home/tali01/anaconda3/share/jupyter/lab
+[I 16:49:28.659 NotebookApp] Serving notebooks from local directory: /data01/home/tali01/Long_Read_Assembly_Analysis
+[I 16:49:28.659 NotebookApp] The Jupyter Notebook is running at:
+[I 16:49:28.659 NotebookApp] http://localhost:8890/?token=8080b21a2068ddb642e8c639ce272da8525c6744d21ca5ae
+[I 16:49:28.659 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:49:28.661 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/18281/jupyter/nbserver-255248-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=8080b21a2068ddb642e8c639ce272da8525c6744d21ca5ae
+[I 16:50:15.461 NotebookApp] The port 8889 is already in use, trying another port.
+[I 16:50:15.461 NotebookApp] The port 8890 is already in use, trying another port.
+[I 16:50:15.485 NotebookApp] JupyterLab extension loaded from /home/tali01/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 16:50:15.485 NotebookApp] JupyterLab application directory is /data01/home/tali01/anaconda3/share/jupyter/lab
+[I 16:50:15.486 NotebookApp] Serving notebooks from local directory: /data01/home/tali01/Long_Read_Assembly_Analysis
+[I 16:50:15.486 NotebookApp] The Jupyter Notebook is running at:
+[I 16:50:15.486 NotebookApp] http://localhost:8891/?token=40ec8914ac225ac0fa44dba598ed617a01faee077c60e6c1
+[I 16:50:15.486 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:50:15.488 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/18281/jupyter/nbserver-255392-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/?token=40ec8914ac225ac0fa44dba598ed617a01faee077c60e6c1
+[C 16:50:27.400 NotebookApp] received signal 15, stopping
+[I 16:50:27.401 NotebookApp] Shutting down 0 kernels
